@@ -1,6 +1,6 @@
 # Doomscroll Skyrim Edition
 
-## ATTENTION!! THIS PROJECT IS NOT MADE BY ME BUT BY reinesana ON GITHUB, I JUST MADE CHANGES FOR IT TO WORK ON WINDOWS 11
+##THIS PROJECT IS NOT MADE BY ME BUT BY reinesana ON GITHUB, I JUST MADE CHANGES FOR IT TO WORK ON WINDOWS 11
 
 **A CV productivity tool that plays Skyrim Skeleton mode whenever you doomscroll or lose focus.**
 
